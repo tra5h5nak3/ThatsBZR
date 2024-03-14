@@ -201,7 +201,7 @@
 .hero {
   background: #971212;
   /*background: linear-gradient(to right, #ffd452, #544a7d);*/
-  background-image: url('images/bomb.jpg');
+  background-image: url('bomb.jpg');
   background-position: left top;
   padding: 200px 0;
 
